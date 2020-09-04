@@ -46,3 +46,25 @@ $ antora --clean site-local.yml
 ----
 
 ====
+
+Follow the next tip in order to start working in the *Antora* playbook,
+
+[IMPORTANT]
+====
+When setting up the project for the first time you must commit first in order
+to have contents generated, somehow if you use the command
+
+[source,bash]
+----
+$ antora --clean site-local.yml
+----
+
+It can give you errors. So in order to work locally, you must first execute
+the following command.
+
+[source,bash]
+----
+$ antora --fetch --clean site-master.yml
+----
+
+====
