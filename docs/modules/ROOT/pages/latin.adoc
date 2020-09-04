@@ -1,5 +1,14 @@
+:page-toctitle: Orationes
+= Orationes Latine
+
 == Signum Crucis
 include::basic:page$latin/sign-of-the-cross[]
 
 == Pater Noster
 include::basic:page$latin/our-father[]
+
+== Ave María
+include::basic:page$latin/hail-mary.adoc[]
+
+== Symbólum Apostolórum
+include::basic:page$latin/apostoles-creed.adoc[]

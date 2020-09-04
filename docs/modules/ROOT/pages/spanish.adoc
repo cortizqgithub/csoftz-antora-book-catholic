@@ -1,5 +1,14 @@
+:page-toctitle: Oraciones
+= Oraciones en Español
+
 == Señal de la Cruz
 include::basic:page$spanish/sign-of-the-cross[]
 
 == Padre Nuestro
 include::basic:page$spanish/our-father.adoc[]
+
+== Ave María
+include::basic:page$spanish/hail-mary.adoc[]
+
+== Credo de los Apóstoles
+include::basic:page$spanish/apostoles-creed.adoc[]
