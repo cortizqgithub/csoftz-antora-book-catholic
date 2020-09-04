@@ -1,3 +1,6 @@
 * xref:preface.adoc[Preface]
 * xref:index.adoc[Main]
+* xref:index.adoc[AGAIN]
+* xref:links.adoc[Links]
 * xref:basic:index.adoc[Basic]
+* xref:other:index.adoc[OTHER]

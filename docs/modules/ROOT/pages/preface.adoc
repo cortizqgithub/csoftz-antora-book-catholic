@@ -1,6 +1,6 @@
 = Preface
 
-This is the site to hold a curated place for documentation about DCL.COM
+This is the site to hold a curated place for documentation about *Catholic Prayers*.
 
 == Conventions
 The text presents some conventions to emphasize content or draw attention.
