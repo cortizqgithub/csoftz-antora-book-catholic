@@ -1,0 +1,21 @@
+site:
+  title: Catholic Book
+  # the 404 page and sitemap files only get generated when the url property is set
+  url: https://github.com/cortizqgithub/csoftz-antora-book-catholic
+  start_page: csoftz-antora-book-catholic::index.adoc
+content:
+  sources:
+  # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
+  - url: git@github.com:cortizqgithub/csoftz-antora-book-catholic.git
+    branches: master
+    start_path: docs
+ui:
+  bundle:
+    #url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    url: c:\java\ui-bundle.zip 
+    snapshot: true
+  supplemental_files:
+    - path: ui.yml
+      contents: |
+        static_files: [ .nojekyll ]
+    - path: .nojekyll

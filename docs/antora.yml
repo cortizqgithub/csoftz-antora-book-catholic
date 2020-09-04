@@ -1,0 +1,6 @@
+name: csoftz-antora-book-catholic
+title: Catholic Book
+version: '1.0.0'
+nav:
+- modules/ROOT/nav.adoc
+
