@@ -1,0 +1,5 @@
+== Señal de la Cruz
+include::basic:page$spanish/sign-of-the-cross[]
+
+== Padre Nuestro
+include::basic:page$spanish/our-father.adoc[]

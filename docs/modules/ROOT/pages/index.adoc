@@ -1,5 +1,9 @@
-= Main Entry
+= Prayers
 
-This is the first.
+TODO
 Even tough prayers are written....
 This text book is in English.
+
+* Basic
+* Holy Rosary
+* Novena

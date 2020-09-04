@@ -1,0 +1,5 @@
+== Signum Crucis
+include::basic:page$latin/sign-of-the-cross[]
+
+== Pater Noster
+include::basic:page$latin/our-father[]

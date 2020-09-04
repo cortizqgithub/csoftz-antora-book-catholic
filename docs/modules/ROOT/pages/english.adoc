@@ -1,0 +1,5 @@
+== Sign of the Cross
+include::basic:page$english/sign-of-the-cross[]
+
+== Our Father
+include::basic:page$english/our-father[]

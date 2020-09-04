@@ -1,6 +1,9 @@
 * xref:preface.adoc[Preface]
-* xref:index.adoc[Main]
-* xref:index.adoc[AGAIN]
+* xref:index.adoc[Prayers]
+
+* xref:basic:index.adoc[Basic Prayers]
+** xref:english.adoc[English]
+** xref:latin.adoc[Latin]
+** xref:spanish.adoc[Spanish]
+
 * xref:links.adoc[Links]
-* xref:basic:index.adoc[Basic]
-* xref:other:index.adoc[OTHER]

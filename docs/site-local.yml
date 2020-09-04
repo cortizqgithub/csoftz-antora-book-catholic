@@ -6,7 +6,7 @@ site:
 content:
   sources:
   # embedding empty credentials in the URL disables the Edit this Page link for any page created from this repository
-  - url: git@github.com:cortizqgithub/csoftz-antora-book-catholic.git
+  - url: ./..
     branches: HEAD
     start_path: docs
 ui:
