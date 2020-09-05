@@ -1,0 +1,14 @@
+:page-toctitle: Prières
+= Prières en Français
+
+== Signe de la Croix
+include::basic:page$french/sign-of-the-cross[]
+
+== Notre Père
+include::basic:page$french/our-father.adoc[]
+
+== Ave Maria
+include::basic:page$french/hail-mary.adoc[]
+
+== Le credo des apôtres
+include::basic:page$french/apostoles-creed.adoc[]
